@@ -1,0 +1,52 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+body{ 
+    background-color: orangered;
+    font-family:cursive;
+    color:greenyellow;
+    text-decoration: overline;
+    border-style: dotted;
+    margin-bottom: 75%;
+    
+    
+
+
+
+}
+
+#babyone {
+    position: absolute;
+    left: 80%;
+    top: 20%;
+}
+
+#babytwo {
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
+
+#babythree {
+    position: sticky;
+}
+
+#insectone{
+    position: absolute;
+    bottom: 20% ;
+    left: 30%;
+    top: 49%;
+}
+
+a {
+    color: hotpink;
+    text-decoration: underline;
+
+}
+    
+
